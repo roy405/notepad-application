@@ -1,0 +1,14 @@
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\bin\Debug\NoteEditor.exe.config
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\bin\Debug\NoteEditor.exe
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\bin\Debug\NoteEditor.pdb
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.csproj.AssemblyReference.cache
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.Properties.Resources.resources
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.csproj.GenerateResource.cache
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.csproj.CoreCompileInputs.cache
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.exe
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.pdb
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.LoginForm.resources
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.Form2.resources
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.TextEditor.resources
+C:\Users\Roy\source\repos\NoteEditor\NoteEditor\obj\Debug\NoteEditor.About.resources
